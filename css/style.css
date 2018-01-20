@@ -1,0 +1,94 @@
+/*!
+ * Mastertech
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+.badge-link1{
+  width: 5%;
+}
+
+.tamanho{
+  width: 40%;
+}
+
+
+.material-icons {
+  font-size: 13rem;
+  background-color: white;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+#main {
+  background-image: url(http://flippingincome.com/wp-content/uploads/2017/02/Garage-sale-clothing-2.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+}
+
+#main h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  /*max-width: 650px;*/
+  text-align: center;
+  padding-left: 2rem;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+
+#cards a:hover {
+  opacity: 0.7;
+}
+
+#contact {
+  margin-top: 12vh;
+}
+
+#maps {
+  width: 80%;
+  margin: -10vh 13vh;
+}
+
+
+.imagemgrande{
+  width: 100%;
+}
+
+.badge-link1 img{
+  width: 45%;
+  padding: 10px;
+}
+
+
+.badge-link2 img{
+  width: 45%;
+}
+
+.classedowload{
+  margin-left: 20%;
+}
+
+h4 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.card-body{
+  background-color: #b3c8e6;
+}
+
+.baixeagora{
+  text-align: center;
+  font-size: 35px;
+  color: #012061;
+  font-weight: bold;
+}
+
+/* Inicio do meu CSS */
+
+
+/* Fim do meu CSS */
